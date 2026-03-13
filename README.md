@@ -188,14 +188,14 @@ role        : "Future Data Engineer"
 
 ---
 
-<!--               GITHUB TROPHIES                              -->
+              <!-- GITHUB TROPHIES                             
 ## GitHub Trophies
 
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=DOUAEM449&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 <br/>
 
