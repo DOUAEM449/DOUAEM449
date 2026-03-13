@@ -1,14 +1,14 @@
 ﻿<div align="center">
 
 <!--                  ANIMATED TYPING HEADER                    -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=bae1ff&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hey+there%2C+I%27m+Douae+MOUSSAOUI;M1+Big+Data+%26+Data+Science;Cloud+Computing+%26+DevOps;Data+Security+%26+Blockchain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=A7D8F3&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hey+there%2C+I%27m+Douae+MOUSSAOUI;M1+Big+Data+%26+Data+Science;Cloud+Computing+%26+DevOps;Data+Security+%26+Blockchain)](https://git.io/typing-svg)
 
 <br/>
 
 <!--                     PROFILE VIEWS                          -->
-![Profile Views](https://komarev.com/ghpvc/?username=DOUAEM449&style=for-the-badge&color=bae1ff&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/DOUAEM449?style=for-the-badge&color=bae1ff&labelColor=ffdfba&label=FOLLOWERS)](https://github.com/DOUAEM449)
-[![GitHub Stars](https://img.shields.io/github/stars/DOUAEM449?style=for-the-badge&color=ffffba&labelColor=ffdfba&label=TOTAL+STARS)](https://github.com/DOUAEM449)
+![Profile Views](https://komarev.com/ghpvc/?username=DOUAEM449&style=for-the-badge&color=A7D8F3&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/DOUAEM449?style=for-the-badge&color=A7D8F3&labelColor=F6EEF7&label=FOLLOWERS)](https://github.com/DOUAEM449)
+[![GitHub Stars](https://img.shields.io/github/stars/DOUAEM449?style=for-the-badge&color=F7E3A1&labelColor=F6EEF7&label=TOTAL+STARS)](https://github.com/DOUAEM449)
 
 </div>
 
@@ -40,8 +40,8 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-ffb3ba?style=for-the-badge&logo=gmail&logoColor=bae1ff)](mailto:douaamoussaoui2@gmail.com)
-[![linkdin](https://img.shields.io/badge/LinkedIn-%23ffb3ba.svg?style=for-the-badge&logo=linkedin&logoColor=bae1ff)](https://linkedin.com/in/douae-moussaoui)
+[![Gmail](https://img.shields.io/badge/Gmail-F4C7D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douaamoussaoui2@gmail.com)
+[![linkdin](https://img.shields.io/badge/LinkedIn-%23F4C7D9.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douae-moussaoui)
 
 </div>
 
@@ -58,16 +58,16 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-%23ffb3ba.svg?style=for-the-badge&logo=c&logoColor=bae1ff)
-![C++](https://img.shields.io/badge/C++-%23ffb3ba.svg?style=for-the-badge&logo=c%2B%2B&logoColor=bae1ff)
-![Java](https://img.shields.io/badge/Java-%23ffb3ba.svg?style=for-the-badge&logo=openjdk&logoColor=bae1ff)
-![Kotlin](https://img.shields.io/badge/Kotlin-%23ffb3ba.svg?style=for-the-badge&logo=kotlin&logoColor=bae1ff)
-![Python](https://img.shields.io/badge/Python-ffb3ba?style=for-the-badge&logo=python&logoColor=ffffba)
-![Scala](https://img.shields.io/badge/Scala-ffb3ba?style=for-the-badge&logo=scala&logoColor=bae1ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23ffb3ba.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffba)
-![Bash](https://img.shields.io/badge/Bash-%23ffb3ba.svg?style=for-the-badge&logo=gnu-bash&logoColor=bae1ff)
-![HTML5](https://img.shields.io/badge/HTML5-%23ffb3ba.svg?style=for-the-badge&logo=html5&logoColor=bae1ff)
-![CSS3](https://img.shields.io/badge/CSS3-%23ffb3ba.svg?style=for-the-badge&logo=css3&logoColor=bae1ff)
+![C](https://img.shields.io/badge/C-%23F4C7D9.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23F4C7D9.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F4C7D9.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23F4C7D9.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F4C7D9?style=for-the-badge&logo=python&logoColor=F7E3A1)
+![Scala](https://img.shields.io/badge/Scala-F4C7D9?style=for-the-badge&logo=scala&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F4C7D9.svg?style=for-the-badge&logo=javascript&logoColor=%23F7E3A1)
+![Bash](https://img.shields.io/badge/Bash-%23F4C7D9.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23F4C7D9.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23F4C7D9.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -77,9 +77,9 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-%23ffb3ba.svg?style=for-the-badge&logo=react&logoColor=%23bae1ff)
-![Chart.js](https://img.shields.io/badge/Chart.js-ffb3ba?style=for-the-badge&logo=chart.js&logoColor=bae1ff)
-![Figma](https://img.shields.io/badge/Figma-%23ffb3ba.svg?style=for-the-badge&logo=figma&logoColor=bae1ff)
+![React](https://img.shields.io/badge/React-%23F4C7D9.svg?style=for-the-badge&logo=react&logoColor=%23A7D8F3)
+![Chart.js](https://img.shields.io/badge/Chart.js-F4C7D9?style=for-the-badge&logo=chart.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F4C7D9.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -89,10 +89,10 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-![NodeJS](https://img.shields.io/badge/Node.js-ffb3ba?style=for-the-badge&logo=node.js&logoColor=bae1ff)
-![Django](https://img.shields.io/badge/Django-%23ffb3ba.svg?style=for-the-badge&logo=django&logoColor=bae1ff)
-![Flask](https://img.shields.io/badge/Flask-%23ffb3ba.svg?style=for-the-badge&logo=flask&logoColor=bae1ff)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%23ffb3ba.svg?style=for-the-badge&logo=springboot&logoColor=bae1ff)
+![NodeJS](https://img.shields.io/badge/Node.js-F4C7D9?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23F4C7D9.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23F4C7D9.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%23F4C7D9.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 </div>
 
@@ -102,9 +102,9 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23ffb3ba.svg?style=for-the-badge&logo=TensorFlow&logoColor=bae1ff)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23ffb3ba.svg?style=for-the-badge&logo=scikit-learn&logoColor=bae1ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23ffb3ba.svg?style=for-the-badge&logo=opencv&logoColor=bae1ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23F4C7D9.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F4C7D9.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23F4C7D9.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
@@ -114,9 +114,9 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-ffb3ba?style=for-the-badge&logo=apachekafka&logoColor=bae1ff)
-![Sqoop](https://img.shields.io/badge/Sqoop-ffb3ba?style=for-the-badge)
-![Kibana](https://img.shields.io/badge/Kibana-ffb3ba?style=for-the-badge&logo=kibana&logoColor=bae1ff)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-F4C7D9?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Sqoop](https://img.shields.io/badge/Sqoop-F4C7D9?style=for-the-badge)
+![Kibana](https://img.shields.io/badge/Kibana-F4C7D9?style=for-the-badge&logo=kibana&logoColor=white)
 
 </div>
 
@@ -126,10 +126,10 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-ffb3ba.svg?style=for-the-badge&logo=mysql&logoColor=bae1ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23ffb3ba.svg?style=for-the-badge&logo=postgresql&logoColor=bae1ff)
-![Oracle](https://img.shields.io/badge/Oracle-ffb3ba?style=for-the-badge&logo=oracle&logoColor=bae1ff)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-ffb3ba?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=bae1ff)
+![MySQL](https://img.shields.io/badge/MySQL-F4C7D9.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23F4C7D9.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F4C7D9?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-F4C7D9?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 </div>
 
@@ -139,13 +139,13 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-%23ffb3ba.svg?style=for-the-badge&logo=amazon-aws&logoColor=bae1ff)
-![Docker](https://img.shields.io/badge/Docker-%23ffb3ba.svg?style=for-the-badge&logo=docker&logoColor=bae1ff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23ffb3ba.svg?style=for-the-badge&logo=kubernetes&logoColor=bae1ff)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23ffb3ba.svg?style=for-the-badge&logo=jenkins&logoColor=bae1ff)
-![Linux](https://img.shields.io/badge/Linux-ffb3ba?style=for-the-badge&logo=linux&logoColor=ffdfba)
-![Git](https://img.shields.io/badge/Git-%23ffb3ba.svg?style=for-the-badge&logo=git&logoColor=bae1ff)
-![Nginx](https://img.shields.io/badge/Nginx-%23ffb3ba.svg?style=for-the-badge&logo=nginx&logoColor=bae1ff)
+![AWS](https://img.shields.io/badge/AWS-%23F4C7D9.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23F4C7D9.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23F4C7D9.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23F4C7D9.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F4C7D9?style=for-the-badge&logo=linux&logoColor=5B6B7A)
+![Git](https://img.shields.io/badge/Git-%23F4C7D9.svg?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23F4C7D9.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
@@ -160,8 +160,8 @@ role        : "Future Data Engineer"
 
 <!-- Overall Stats & Top Languages side by side -->
 <a href="https://github.com/DOUAEM449">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DOUAEM449&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffba&title_color=bae1ff&text_color=ffdfba&icon_color=ffb3ba&border_color=baffc9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUAEM449&layout=compact&langs_count=8&hide_border=true&bg_color=ffffba&title_color=bae1ff&text_color=ffdfba&border_color=baffc9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DOUAEM449&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF7FB&title_color=8FB6E6&text_color=5B6B7A&icon_color=F4C7D9&border_color=EADFF2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUAEM449&layout=compact&langs_count=8&hide_border=true&bg_color=FFF7FB&title_color=8FB6E6&text_color=5B6B7A&border_color=EADFF2" />
 </a>
 
 </div>
@@ -171,7 +171,7 @@ role        : "Future Data Engineer"
 <!-- GitHub Streak -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DOUAEM449&theme=default&hide_border=true&background=ffffba&stroke=ffdfba&ring=bae1ff&fire=ffb3ba&currStreakNum=ffdfba&sideNums=ffdfba&currStreakLabel=bae1ff&sideLabels=bae1ff&dates=baffc9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DOUAEM449&theme=default&hide_border=true&background=FFF7FB&stroke=EADFF2&ring=A7D8F3&fire=F7E3A1&currStreakNum=5B6B7A&sideNums=5B6B7A&currStreakLabel=8FB6E6&sideLabels=8FB6E6&dates=9AA7B2)](https://git.io/streak-stats)
 
 </div>
 
@@ -180,7 +180,7 @@ role        : "Future Data Engineer"
 <!-- Activity Graph -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DOUAEM449&theme=default&bg_color=ffffba&color=bae1ff&line=baffc9&point=ffb3ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DOUAEM449&theme=default&bg_color=FFF7FB&color=8FB6E6&line=A7D8F3&point=F7E3A1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -212,10 +212,9 @@ Coming soon.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bae1ff&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffdfba&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A7D8F3&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=5B6B7A&animation=twinkling&fontAlignY=65" />
 
 </div>
-
 
 
 
