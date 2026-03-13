@@ -1,14 +1,14 @@
 ﻿<div align="center">
 
 <!--                  ANIMATED TYPING HEADER                    -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=A7D8F3&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hey+there%2C+I%27m+Douae+MOUSSAOUI;M1+Big+Data+%26+Data+Science;Cloud+Computing+%26+DevOps;Data+Security+%26+Blockchain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hey+there%2C+I%27m+Douae+MOUSSAOUI;M1+Big+Data+%26+Data+Science;Cloud+Computing+%26+DevOps;Data+Security+%26+Blockchain)](https://git.io/typing-svg)
 
 <br/>
 
 <!--                     PROFILE VIEWS                          -->
-![Profile Views](https://komarev.com/ghpvc/?username=DOUAEM449&style=for-the-badge&color=A7D8F3&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/DOUAEM449?style=for-the-badge&color=A7D8F3&labelColor=F6EEF7&label=FOLLOWERS)](https://github.com/DOUAEM449)
-[![GitHub Stars](https://img.shields.io/github/stars/DOUAEM449?style=for-the-badge&color=F7E3A1&labelColor=F6EEF7&label=TOTAL+STARS)](https://github.com/DOUAEM449)
+![Profile Views](https://komarev.com/ghpvc/?username=DOUAEM449&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/DOUAEM449?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/DOUAEM449)
+[![GitHub Stars](https://img.shields.io/github/stars/DOUAEM449?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/DOUAEM449)
 
 </div>
 
@@ -160,8 +160,8 @@ role        : "Future Data Engineer"
 
 <!-- Overall Stats & Top Languages side by side -->
 <a href="https://github.com/DOUAEM449">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DOUAEM449&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF7FB&title_color=8FB6E6&text_color=5B6B7A&icon_color=F4C7D9&border_color=EADFF2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUAEM449&layout=compact&langs_count=8&hide_border=true&bg_color=FFF7FB&title_color=8FB6E6&text_color=5B6B7A&border_color=EADFF2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DOUAEM449&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUAEM449&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
@@ -171,7 +171,7 @@ role        : "Future Data Engineer"
 <!-- GitHub Streak -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DOUAEM449&theme=default&hide_border=true&background=FFF7FB&stroke=EADFF2&ring=A7D8F3&fire=F7E3A1&currStreakNum=5B6B7A&sideNums=5B6B7A&currStreakLabel=8FB6E6&sideLabels=8FB6E6&dates=9AA7B2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DOUAEM449&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -180,7 +180,7 @@ role        : "Future Data Engineer"
 <!-- Activity Graph -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DOUAEM449&theme=default&bg_color=FFF7FB&color=8FB6E6&line=A7D8F3&point=F7E3A1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DOUAEM449&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -206,13 +206,14 @@ Coming soon.
 
 ### Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A7D8F3&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=5B6B7A&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
 </div>
+
 
