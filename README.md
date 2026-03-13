@@ -159,9 +159,9 @@ role        : "Future Data Engineer"
 <div align="center">
 
 <!-- Overall Stats & Top Languages side by side -->
-<a href="https://github.com/douaams1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douaams1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douaams1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/DOUAEM449">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DOUAEM449&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUAEM449&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
@@ -171,7 +171,7 @@ role        : "Future Data Engineer"
 <!-- GitHub Streak -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=douaams1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DOUAEM449&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -180,7 +180,7 @@ role        : "Future Data Engineer"
 <!-- Activity Graph -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=douaams1&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DOUAEM449&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -193,7 +193,7 @@ role        : "Future Data Engineer"
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=douaams1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=DOUAEM449&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
