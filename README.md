@@ -1,96 +1,232 @@
-﻿<h1 align="center">Hi 👋, I'm Douae MOUSSAOUI</h1>
-<h3 align="center">M1 Big Data & Data Science • Cloud/DevOps Enthusiast</h3>
+﻿<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Big+Data+%26+Data+Science;Cloud+Computing+%26+DevOps;Python+for+Data+Science;Data+Security+%26+Blockchain" alt="Typing SVG" /></a>
-</p>
+<!--                  ANIMATED TYPING HEADER                    -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hey+there%2C+I%27m+Douae+MOUSSAOUI;M1+Big+Data+%26+Data+Science;Cloud+Computing+%26+DevOps;Data+Security+%26+Blockchain)](https://git.io/typing-svg)
 
----
+<br/>
 
-### 👨‍💻 About Me
-- 🎓 M1 student in **Big Data & Data Science**
-- 📚 Currently studying **Cloud Computing & DevOps, Big Data, Python for Data Science, Data Security & Blockchain**
-- 🧰 Hands-on with **AWS, Kubernetes, Docker, Git, Jenkins**
-- 🔎 Big Data stack: **Kafka, Sqoop, Kibana, Scala**
-- 🐍 Python stack: **Flask, scikit-learn**
-- 🌐 Web: **HTML, CSS, JavaScript**
-- 📫 How to reach me: douaamoussaoui2@gmail.com
+<!--                     PROFILE VIEWS                          -->
+![Profile Views](https://komarev.com/ghpvc/?username=DOUAEM449&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/DOUAEM449?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/DOUAEM449)
+[![GitHub Stars](https://img.shields.io/github/stars/DOUAEM449?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/DOUAEM449)
+
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+<!--                      ABOUT ME                              -->
+## About Me
 
-<p align="center">
-  <b>Programming Languages</b><br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-</p>
+```yaml
+name        : "Douae MOUSSAOUI"
+location    : "Casablanca,Morocco"
+education   : "M1 Big Data & Data Science"
+role        : "Future Data Engineer"
+```
 
-<p align="center">
-  <b>Frontend & Design</b><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+- Currently working on **Data Security & Blockchain projects**
+- Deepening expertise in **Cloud Computing & DevOps, Big Data, Python for Data Science, Data Security & Blockchain**
+- Open to collaborating on **Big Data pipelines, Data Engineering projects & Cloud/DevOps automation**
+- Ask me about **Python, Big Data, Cloud/DevOps, and Data Engineering tools**
+- Reach me at **douaamoussaoui2@gmail.com**
+- Fun fact: **I enjoy building data pipelines and dashboards**
 
-<p align="center">
-  <b>Backend & Frameworks</b><br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>AI & Machine Learning</b><br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Big Data & Data Engineering</b><br>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sqoop-0F9D58?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Databases</b><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>DevOps, Cloud & Servers</b><br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<br/>
 
 ---
 
-### 📊 GitHub Analytics
+<!--                   CONNECT WITH ME                          -->
+## Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douaams1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douaams1&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douaams1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douaamoussaoui2@gmail.com)
+[![linkdin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douae-moussaoui)
+
+</div>
+
+<br/>
+
+---
+
+<!--                      TECH STACK                            -->
+## Tech Stack & Tools
+
+<!--  LANGUAGES  -->
+
+### Programming Languages
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<!--  FRONTEND  -->
+
+### Frontend & Design
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<!--  BACKEND  -->
+
+### Backend & Frameworks
+
+<div align="center">
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+</div>
+
+<!--  AI / ML  -->
+
+### AI / ML & Computer Vision
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+<!--  BIG DATA  -->
+
+### Big Data & Data Engineering
+
+<div align="center">
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Sqoop](https://img.shields.io/badge/Sqoop-0F9D58?style=for-the-badge)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+</div>
+
+<!--  DATABASES  -->
+
+### Databases
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+</div>
+
+<!--  DEVOPS / CLOUD  -->
+
+### DevOps, Cloud & Tools
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!--                    GITHUB STATS                            -->
+## GitHub Statistics
+
+<div align="center">
+
+<!-- Overall Stats & Top Languages side by side -->
+<a href="https://github.com/douaams1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douaams1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douaams1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- GitHub Streak -->
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=douaams1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=douaams1&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+<!--               GITHUB TROPHIES                              -->
+## GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=douaams1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+<!--               FEATURED PROJECTS                            -->
+## Featured Projects
+
+<div align="center">
+
+Coming soon.
+
+</div>
+
+<br/>
+
+---
+
+<!--                  FOOTER / QUOTE                            -->
+<div align="center">
+
+### Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+
+</div>
+
+
